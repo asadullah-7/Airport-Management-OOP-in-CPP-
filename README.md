@@ -37,7 +37,7 @@ The **Airport Management System** is a C++-based console application that manage
 ## 📝 Usage
 - Run the program and select options from the **Main Menu**.
 - Enter valid flight or booking details as prompted.
-- 🔑 To access the ATC system, the correct password must be entered.
+- 🔑 To access the ATC system, the correct password must be entered (PASSWORD IS atc).
 - 🗂️ All data is stored and retrieved from text files for persistence.
 
 ## 🔮 Future Improvements
